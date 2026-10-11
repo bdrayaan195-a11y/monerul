@@ -1,0 +1,6 @@
+{
+  "name": "খিলপাড়া পুলিশ তদন্ত কেন্দ্র",
+  "description": "খিলপাড়া পুলিশ তদন্ত কেন্দ্র ও ইউনিয়ন তথ্যাবলি - নোয়াখালী",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
